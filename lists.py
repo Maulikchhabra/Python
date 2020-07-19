@@ -24,8 +24,8 @@ for i in list:
 
 
 #user inputs
-#a=input("Enter an alphabet: ")
-#list2.append(a) #insert in the list
+a=input("Enter an alphabet: ")
+list2.append(a) #insert in the list
 print(list2)   
 
 list.remove(4) #removing element 4 from list
