@@ -102,4 +102,9 @@ print(type(froze1))
 print(froze1)
 
 
+#Some built-in functions
+#Isdisjoint(...) return true if two sets have null intersection
+#Issubset(...) report whether another set contains this set.
+#Issuperset(...) report whether this set contains another set.
+#symmetric_difference_update()
 
