@@ -1,10 +1,10 @@
 if __name__ == '__main__':
-    N = int(raw_input())
+    N = int(input())
     
 list1=[]
 
 for i in range(0,N):
-    str=raw_input().split()
+    str=input().split()
 
     for i in range(1,len(str)):
         str[i]=int(str[i])
